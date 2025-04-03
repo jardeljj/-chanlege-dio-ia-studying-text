@@ -10,6 +10,8 @@ Realizado o reconhecimento de texto em imagens utilizando o copilot.
 
 ![Imagem 2](output/imagem2homem.png)
 
+
+### Solicitado reconhecimento de uma imagem que contém palavras de baixo escalão.
 ![Imagem 3](output/imagem3homem.png)
 
 
